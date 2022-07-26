@@ -1,8 +1,9 @@
 # employee-mgmt-system(Angular 14)
 ## Run Locally
 Git Clone
+cd root folder
 
-`npm install`
+`npm install --save npm-install-global`
 
 ## Run Server
 `cd server`
