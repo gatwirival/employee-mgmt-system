@@ -5,7 +5,8 @@ cd root folder
 
 `npm install --save npm-install-global`
 
-## Run Server
+##  Run Server
+
 `cd server`
 
 `npx ts-node src/server.ts`
