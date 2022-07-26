@@ -18,6 +18,7 @@ cd root folder
 `ng serve -o`
 
 > Install and link mongodb and typescript.
+> Add your password to ATLAS_URI.
 > Run both fronted(client) and backend (server)
 
 ![image](https://user-images.githubusercontent.com/61587290/181094444-38bcea8e-2154-4c7a-84e2-47a33a23f7fc.png)
