@@ -1,6 +1,6 @@
 # employee-mgmt-system(Angular 14)
 
-- A MongoDB Atlas cluster will be used for data persistence. 
+- A MongoDB Atlas cluster is used for data persistence. 
 - RESTful API for performing CRUD (Create, Read, Update, and Delete) operations on an employee. 
 
 ## Run Locally
@@ -27,7 +27,7 @@ cd root folder
 
 > Run both fronted(client) and backend (server)
 
-- The following pages will be included in the interface:
+- **The following pages are included in the interface:**
 
 ## Add new employees.
 
