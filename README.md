@@ -11,10 +11,12 @@ cd root folder
 
 `npx ts-node src/server.ts`
 
-##Run Client
+## Run Client
+
 `cd client`
 
 `ng serve -o`
+
 > Install and link mongodb and typescript.
 > Run both fronted(client) and backend (server)
 
